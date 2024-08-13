@@ -36,10 +36,10 @@ Floor secondFloor = new SecondFloor(secondfloorConfiguration);
 a. the example of the list:
 
 ```
-    4
-    3
-    
+    //the ordering is not important. It can be like so:
     1
+    2 - under construction
+    3
 ```
 
 6. when guest  ask system to go to the floor which is under construction it should go nowhere;
